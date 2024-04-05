@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HistoryApp</string>
+    <string name="clear">Clear</string>
+    <string name="enter_age">Enter Age :</string>
+    <string name="todo">TODO</string>
+</resources>
